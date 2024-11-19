@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Slide1.unity
+    guid: 8ece13e699f5a9443bfe3dacf2e137f1
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Slide2.unity
+    guid: fbf09cc142b0a8841a67146c92d2007e
+  - enabled: 1
+    path: Assets/Slide3.unity
+    guid: 6a72537b69a27ed4396ddcb211a9b574
+  - enabled: 1
+    path: Assets/Slide4.unity
+    guid: 1cb109ef97149d04197253360cfab8c5
+  - enabled: 1
+    path: Assets/Arkanoid.unity
+    guid: 37573a22db6f1e14697541a8d7837561
+  - enabled: 1
+    path: Assets/Slide5.unity
+    guid: 3811baf87d6123f44ae0d2b32b45c05e
+  - enabled: 1
+    path: Assets/Slide6.unity
+    guid: 2c8164699c2dcbb48b6ee46a2bba3f14
+  - enabled: 1
+    path: Assets/SpaceInvaders.unity
+    guid: e7fd11fbfff598c43baf6eb5d0f364ae
+  - enabled: 1
+    path: Assets/Slide8.unity
+    guid: 26116dd7962c376438c03e14f3068355
+  - enabled: 1
+    path: Assets/Slide9.unity
+    guid: 39160c00e4b68de48a85f5bf1a390eab
+  - enabled: 1
+    path: Assets/Memory Game.unity
+    guid: 935a1dcc718c97b4fa69461806290cbf
+  - enabled: 1
+    path: Assets/Slide10.unity
+    guid: 835173fda3fc38e4a943f36bff3038dd
+  - enabled: 1
+    path: Assets/Slide11.unity
+    guid: 513004e359a056442a2f6a0e7abab470
+  - enabled: 1
+    path: Assets/Slide12.unity
+    guid: 139f1ca83a4112b4bae096490d5b8c57
+  - enabled: 1
+    path: Assets/BlackJack.unity
+    guid: 9656358ae2e30d84e8600541f0cc10d9
+  - enabled: 1
+    path: Assets/Slide13.unity
+    guid: ee2e27c77801a0e42ad620815b55b719
+  - enabled: 1
+    path: Assets/Slide14.unity
+    guid: b48915b06e113c642b2948831fd77ddb
+  - enabled: 1
+    path: Assets/Slide15.unity
+    guid: 9997cb34b4c088642a742e5f9205de4f
+  - enabled: 1
+    path: Assets/Slide16.unity
+    guid: 8ff80016551780747b966fee342b2243
+  m_configObjects: {}
